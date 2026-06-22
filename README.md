@@ -8,12 +8,12 @@ AI-powered coding assistant built using Python and Streamlit.
 - Concept Detection
 - Smart Learning Mode
 
-## Technologies
+## Technologies Used
 - Python
 - Streamlit
 - OpenAI API
 
-## Run Locally
+## Installation
 
 pip install -r requirements.txt
 
